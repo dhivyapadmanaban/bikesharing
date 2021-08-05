@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program in the United States and build a business proposal to convice investors of the bike-sharing program in Des Moines!
+The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program in the United States and build a business proposal to convince investors of the bike-sharing program in Des Moines!
 
 Here is the detailed analysis of NYC Bike ride program - [New York City bike Dashboard](https://public.tableau.com/app/profile/dhivya5143/viz/NYCBikeChallenge_16274960011200/NYCCitibikeanalysis?publish=yes)
 
@@ -16,7 +16,7 @@ There are various visualizations created in Tableau to support the analysis. Few
 
 ### Subscribers vs Customer - NYC CitiBike
 
-As per below pie chart, NYC CitiBike has around 80% subscribers than the customers. Subscribers are local people who use bike for regular commute hence this model is sustainalbe in Des Monies with local subscribers.
+As per below pie chart, NYC CitiBike has around 80% subscribers than the customers. Subscribers are local people who use bike for regular commute hence this model is sustainable in Des Monies with local subscribers.
 
 ![image](https://user-images.githubusercontent.com/83181834/128300938-a7990a82-fcc3-43ac-af53-ef08311f1cea.png)
 
@@ -61,7 +61,7 @@ Here we are going to find the most used / popular bikes by measuring their trip 
 
 ### Bike Repair
 
-We need to identify the bikes which are used on many trips to help with the better utilization and maintainance. This treemaps easily tell us the bike ids with most number of trip and we can user the downtime window (4 AM - 6 AM) for bike maintainance. 
+We need to identify the bikes which are used on many trips to help with the better utilization and maintenance. This treemaps easily tell us the bike ids with most number of trip and we can user the downtime window (4 AM - 6 AM) for bike maintenance. 
 
 ![image](https://user-images.githubusercontent.com/83181834/128302865-d7a1afb2-2de5-4cd3-b921-54b447aeae09.png)
 
@@ -73,7 +73,7 @@ In addition to these visualizations, below charts will add more depth to the ana
 
 #### Membership Breakdown By Day
 
-This stacked bar chart quickly shows us the user typers of this bike sharing on everyday basis. As expected subscribers take most of the trips everyday!
+This stacked bar chart quickly shows us the user types of this bike sharing on everyday basis. As expected subscribers take most of the trips everyday!
 
 ![image](https://user-images.githubusercontent.com/83181834/128304690-5fec08f1-1901-4cf3-8953-ecbf58d2a831.png)
 
