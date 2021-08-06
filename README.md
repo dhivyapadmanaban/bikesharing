@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program in the United States and build a business proposal to convince investors of the bike-sharing program in Des Moines!
+The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program and build a business proposal to convince investors for similar bike-sharing program in Des Moines!
 
 Here is the detailed analysis of NYC Bike ride program - [New York City bike Dashboard](https://public.tableau.com/app/profile/dhivya5143/viz/NYCBikeChallenge_16274960011200/NYCCitibikeanalysis?publish=yes)
 
