@@ -67,7 +67,7 @@ We need to identify the bikes which are used on many trips to help with the bett
 
 ## Summary
 
-As per these analyzed visualizations, we can start similar business in Des Moines on Bike sharing program ! Since majority of the users are subscribers, we can launch the program for Des Moines locals. Temporary customers like tourist , visitors will user bikes for shorter commute within Des Moines! 
+As per these analyzed visualizations, we can start similar business in Des Moines on Bike sharing program ! Since majority of the users are subscribers, we can launch the program for Des Moines locals. Temporary customers like tourist / visitors will use bikes for shorter commute within Des Moines! 
 
 In addition to these visualizations, below charts will add more depth to the analysis. 
 
